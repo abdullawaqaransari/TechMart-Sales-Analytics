@@ -208,6 +208,6 @@ The project was used to identify:
 
 ## 👤 Author
 
-**Abdullah Waqar Ansari**
+**Abdulla Waqar Ansari**
 
 Aspiring Data Analyst | SQL | Excel | Power BI | Data Analytics
