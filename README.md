@@ -41,6 +41,10 @@ The project uses SQL Server for database design and analysis, Microsoft Excel fo
 - Profit Margin
 - Customer Performance
 - Product Performance
+ 
+  ## 📊 Power BI Dashboard
+
+![TechMart Sales Dashboard](Dashboard/TechMart_Sales_Dashboard.png)
 
 ## 💡 Business Insights
 
